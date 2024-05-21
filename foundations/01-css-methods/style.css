@@ -3,7 +3,7 @@
 div {
     color: white;
     background-color: red;
-    font-weight: bolder;
-    font-size: x-large;
+    font-weight: bold;
+    font-size: 32px;
     text-align: center;
 }
