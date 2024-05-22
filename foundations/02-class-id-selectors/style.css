@@ -1,6 +1,6 @@
 /*  styles.css */
 
-p { background-color: rgb(255, 135, 135);
+.odd { background-color: rgb(255, 135, 135);
     font-family:Verdana, "DejaVu sans", sans-serif;
     
 }
@@ -10,12 +10,11 @@ p { background-color: rgb(255, 135, 135);
        color: blue;
 }
 
-#no3 {
+.font-size {
     font-size: 24px;
 }
 
 #no4 {
         font-weight: bold;
         background-color: rgb(97, 235, 97);
-        font-size: 24px;
 }
